@@ -87,7 +87,7 @@ Este projeto foi baseado no template disponível em [aaleckdev/Projeto-Awax](htt
 1. Clone o repositório: `git clone https://github.com/aaleckdev/Projeto-Awax`
 2. Navegue até o diretório do projeto: `cd seu-repositorio`
 3. Abra o arquivo `index.html` no seu navegador para visualizar o site.
-4. Ou clicar no link para ver o projeto no ar `https://aaleckdev.github.io/alex-projeto-awax.github.io/`
+4. Ou clicar no link para ver o projeto no ar `https://aleckdevv.github.io/AleckDevv-projeto-awax.github.io/`
 
 ---
 
